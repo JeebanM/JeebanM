@@ -157,7 +157,7 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0ea5e9/JeebanM" alt="Jeeban's GitHub Contribution Chart" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
 
 </div>
 
