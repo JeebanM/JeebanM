@@ -24,52 +24,41 @@
 
 ## 🧠 About Me
 
-```python
-class JeebanMohanty:
+Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Academy of Technology, Bhubaneswar**, and an aspiring **AI Engineer** passionate about building practical, end-to-end intelligent systems.
 
-    name       = "Jeeban Mohanty"
-    education  = "B.Tech CSE @ Trident Academy of Technology, Bhubaneswar (2023–2027)"
-    role       = "Aspiring AI Engineer | Full-Stack Developer"
-    location   = "Bhubaneswar, Odisha, India 🇮🇳"
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE @ Trident Academy of Technology (2023–2027) |
+| 📍 **Location** | Bhubaneswar, Odisha, India |
+| 🎯 **Role** | Aspiring AI Engineer + Full-Stack Developer |
+| 💡 **Interests** | LLMs · AI Agents · RAG · NLP · System Design · Real-World AI Products |
+| 🌱 **Learning** | DSA · System Design · Java/Spring Boot · Cloud Deployment |
+| 💬 **Ask me about** | AI/ML Projects · FastAPI · LLM Apps · Full-Stack Dev |
 
-    interests  = [
-        "Artificial Intelligence & Machine Learning",
-        "LLM Applications & AI Agents",
-        "End-to-End System Design & Deployment",
-        "Practical, Real-World Software Engineering",
-    ]
+> 🚀 *My goal: Grow as an AI Engineer who doesn't just build models — but designs, integrates, deploys, and maintains complete intelligent software systems end-to-end.*
 
-    currently_building = [
-        "⚡ AI-powered Energy Analytics & Anomaly Detection System",
-        "   ├─ ML-based abnormal consumption pattern detection",
-        "   ├─ Data integrity via SHA-256 hash chaining",
-        "   └─ Dashboard + map-based interactive visualizations",
-        "",
-        "🌉 Talent Bridge — AI Recruitment & Interview Platform",
-        "   ├─ AI resume analysis & ATS scoring",
-        "   ├─ Automated interview preparation system",
-        "   ├─ Skill assessment & gap analysis",
-        "   └─ Intelligent job matching engine",
-    ]
+---
 
-    sharpening_skills = [
-        "DSA & Problem Solving", "System Design",
-        "Java & Spring Boot", "Backend Architecture",
-        "Git/GitHub Workflows", "Cloud Deployment",
-    ]
+## ⚡ What I'm Building
 
-    goal = """
-        Grow as an AI Engineer who doesn't just build models —
-        but designs, integrates, deploys, and maintains
-        complete, intelligent software systems end-to-end.
-    """
-```
+### 🌉 Talent Bridge — AI Recruitment & Interview Platform
+> An end-to-end AI system for modern hiring workflows
+
+- 📄 **AI Resume Analysis** — ATS scoring and skill extraction
+- 🎤 **Interview Preparation** — AI-powered mock interview system
+- 📊 **Skill Assessment** — Gap analysis and improvement suggestions
+- 🔍 **Job Matching** — Intelligent candidate-to-role matching engine
+
+### ⚡ Energy Analytics & Anomaly Detection System
+> Combining AI/ML with data integrity mechanisms
+
+- 🤖 **ML-based anomaly detection** for abnormal energy consumption patterns
+- 🔐 **SHA-256 hash chaining** for tamper-proof data integrity
+- 🗺️ **Dashboard + map-based visualizations** for real-time insights
 
 ---
 
 ## 🤖 AI / ML Skills
-
-<div align="center">
 
 | Domain | What I've Built / Worked With |
 |---|---|
@@ -78,17 +67,13 @@ class JeebanMohanty:
 | **AI Agents** | Multi-Agent Pipelines · Tool Use · Autonomous Research Systems |
 | **NLP** | Text Classification · NER · Summarization · Document Intelligence · OCR |
 | **Speech & Audio** | Speech-to-Text Integration · Audio Processing |
-| **AI for HR & Recruitment** | Resume/ATS Analysis · Interview AI · Skill Assessment · Job Matching |
+| **AI for Recruitment** | Resume/ATS Analysis · Interview AI · Skill Assessment · Job Matching |
 | **Anomaly Detection** | Energy Consumption Patterns · ML-based Anomaly Flags |
 | **Platforms & Libs** | Hugging Face · LangChain · scikit-learn · Pandas · NumPy |
-
-</div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
@@ -97,9 +82,7 @@ class JeebanMohanty:
 | 🤖 [**fintrixia-ai**](https://github.com/JeebanM/fintrixia-ai) | AI-powered fintech platform | TypeScript · React · AI |
 | 🧬 [**Multi-Agent Research System**](https://github.com/JeebanM/multi_agent_research_system) | Autonomous AI research agents | Python · LangChain · LLMs |
 | 📞 [**Customer Support Auditor**](https://github.com/JeebanM/customer-support-auditor) | AI call analysis & quality dashboard | Python · FastAPI · Docker |
-| ⚡ [**ZapTransfer**](https://github.com/JeebanM/Zaptransfer-Frontend) | Real-time P2P file transfer app | React · Node.js · JavaScript |
-
-</div>
+| 🔁 [**ZapTransfer**](https://github.com/JeebanM/Zaptransfer-Frontend) | Real-time P2P file transfer app | React · Node.js · JavaScript |
 
 ---
 
@@ -133,9 +116,9 @@ class JeebanMohanty:
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-white?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Databases**
 
@@ -181,11 +164,11 @@ class JeebanMohanty:
 
 ## 🌱 Currently
 
-- ⚡ Building an **AI Energy Analytics & Anomaly Detection System** with ML + SHA-256 hash chaining + visualizations
+- ⚡ Building **Energy Analytics & Anomaly Detection System** — ML + SHA-256 integrity + live dashboards
 - 🌉 Developing **Talent Bridge** — end-to-end AI recruitment & interview platform
-- 📐 Strengthening **System Design**, **DSA**, and **Backend Architecture** fundamentals
-- ☕ Levelling up in **Java** and **Spring Boot** for enterprise-grade backend development
-- 🎯 Goal: Transition from academia → industry as a capable, deployable **AI Engineer**
+- 📐 Strengthening **System Design**, **DSA**, and **Backend Architecture** skills
+- ☕ Levelling up in **Java** and **Spring Boot** for enterprise backend development
+- 🎯 Goal: Transition from academia to industry as a deployable **AI Engineer**
 
 ---
 
@@ -195,8 +178,7 @@ class JeebanMohanty:
 
 [![GitHub](https://img.shields.io/badge/GitHub-JeebanM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeebanM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeeban_Mohanty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-mohanty)
-[![Twitter](https://img.shields.io/badge/Twitter-@JeebanM-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JeebanM)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
 
