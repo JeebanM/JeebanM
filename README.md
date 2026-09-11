@@ -143,14 +143,15 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeebanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeebanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeebanM&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=JeebanM&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b"/>
 
 </div>
 
