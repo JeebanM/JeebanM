@@ -139,30 +139,6 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.followers&label=Followers&style=for-the-badge&color=22c55e&logo=github&logoColor=white)
-![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.following&label=Following&style=for-the-badge&color=f97316&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JeebanM&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1f6feb&ring=0ea5e9&fire=f97316&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=0ea5e9&sideLabels=8b949e&dates=8b949e&border_radius=10" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - ⚡ Building **Energy Analytics & Anomaly Detection System** — ML + SHA-256 integrity + live dashboards
