@@ -139,25 +139,34 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeebanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&cache_seconds=1800"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JeebanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&cache_seconds=1800" height="195"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanM&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&cache_seconds=1800" height="195"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=JeebanM&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b"/>
+<img src="https://streak-stats.demolab.com/?user=JeebanM&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1f6feb&ring=0ea5e9&fire=f97316&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=0ea5e9&sideLabels=8b949e&dates=8b949e&border_radius=10" width="70%"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" width="100%"/>
 
 </div>
 
