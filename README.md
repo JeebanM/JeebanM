@@ -157,7 +157,15 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeebanM&theme=react-dark&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/JeebanM)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeebanM&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeebanM&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeebanM&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeebanM&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
