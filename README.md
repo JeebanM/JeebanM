@@ -139,20 +139,13 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JeebanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&cache_seconds=1800" height="195"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanM&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&cache_seconds=1800" height="195"/>
-    </td>
-  </tr>
-</table>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.followers&label=Followers&style=for-the-badge&color=22c55e&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JeebanM&query=$.following&label=Following&style=for-the-badge&color=f97316&logo=github&logoColor=white)
 
 </div>
 
@@ -162,11 +155,9 @@ Hi, I'm **Jeeban Mohanty** — a final-year B.Tech CSE student at **Trident Acad
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JeebanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 
 </div>
 
