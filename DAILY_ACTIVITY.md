@@ -3,3 +3,4 @@
 [2026-09-05] feat: add dynamic GitHub stats cards and tech stack icons
 [2026-09-11] chore: update portfolio links, project highlights and certifications
 [2026-09-12] fix: harden input validation and error boundaries
+[2026-09-13] chore: sync environment configs and build pipeline artifacts
