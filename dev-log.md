@@ -4,6 +4,14 @@
 
 ---
 
+## September 14, 2026 (Monday)
+
+> "Simplicity is the soul of efficiency." — Austin Freeman
+
+**Tip: Document the 'why', not the 'what' — code shows the what.**
+
+---
+
 ## September 12, 2026 (Saturday)
 
 > "First, solve the problem. Then, write the code." — John Johnson
