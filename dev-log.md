@@ -4,6 +4,14 @@
 
 ---
 
+## September 15, 2026 (Tuesday)
+
+> "Clean code always looks like it was written by someone who cares." — Robert C. Martin
+
+**Tip: Name variables for what they represent, not how they are used.**
+
+---
+
 ## September 14, 2026 (Monday)
 
 > "Simplicity is the soul of efficiency." — Austin Freeman
