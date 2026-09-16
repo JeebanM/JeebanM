@@ -8,12 +8,12 @@
 
 <br/><br/>
 
-<a href="https://github.com/JeebanM">
+<!-- <a href="https://github.com/JeebanM">
   <img src="https://komarev.com/ghpvc/?username=JeebanM&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
-</a>
-<a href="https://github.com/JeebanM?tab=followers">
+</a> -->
+<!-- <a href="https://github.com/JeebanM?tab=followers">
   <img src="https://img.shields.io/github/followers/JeebanM?label=Followers&style=flat-square&color=0ea5e9&logo=github"/>
-</a>
+</a> -->
 <img src="https://img.shields.io/badge/B.Tech%20CSE-TAT%20Bhubaneswar%20'27-0ea5e9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Goal-AI%20Engineer-22c55e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-f97316?style=flat-square"/>
