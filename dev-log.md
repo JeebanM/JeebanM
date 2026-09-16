@@ -4,6 +4,14 @@
 
 ---
 
+## September 16, 2026 (Wednesday)
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+**Tip: Learn to use the debugger properly — console.log only goes so far.**
+
+---
+
 ## September 15, 2026 (Tuesday)
 
 > "Clean code always looks like it was written by someone who cares." — Robert C. Martin
