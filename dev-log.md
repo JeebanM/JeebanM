@@ -4,6 +4,14 @@
 
 ---
 
+## September 17, 2026 (Thursday)
+
+> "Make it work, make it right, make it fast." — Kent Beck
+
+**Tip: Commit early, commit often — small commits are easier to review.**
+
+---
+
 ## September 16, 2026 (Wednesday)
 
 > "First, solve the problem. Then, write the code." — John Johnson
