@@ -4,6 +4,14 @@
 
 ---
 
+## September 18, 2026 (Friday)
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+**Tip: Write tests before you write code (TDD).**
+
+---
+
 ## September 17, 2026 (Thursday)
 
 > "Make it work, make it right, make it fast." — Kent Beck
