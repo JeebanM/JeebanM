@@ -4,6 +4,14 @@
 
 ---
 
+## September 21, 2026 (Monday)
+
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
+**Tip: Understand the problem completely before writing a single line of code.**
+
+---
+
 ## September 20, 2026 (Sunday)
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
