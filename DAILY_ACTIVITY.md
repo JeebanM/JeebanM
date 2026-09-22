@@ -17,3 +17,4 @@
 [2026-09-22 01:47:21 UTC] Automated project activity
 [2026-09-22 06:52:11 UTC] Automated project activity
 [2026-09-22 12:20:12 UTC] Automated project activity
+[2026-09-22] fix: harden input validation and error boundaries
