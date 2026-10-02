@@ -80,3 +80,4 @@
 [2026-10-02 00:47:18 UTC] Automated project activity
 [2026-10-02 06:20:20 UTC] Automated project activity
 [2026-10-02 12:57:00 UTC] Automated project activity
+[2026-10-02] fix: harden input validation and error boundaries
