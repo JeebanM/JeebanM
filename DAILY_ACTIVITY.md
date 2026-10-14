@@ -148,3 +148,4 @@
 [2026-10-14 04:35:20 UTC] Automated project activity
 [2026-10-14 09:43:29 UTC] Automated project activity
 [2026-10-14 14:41:42 UTC] Automated project activity
+[2026-10-14] docs: refine README examples and quick-start instructions
